@@ -1,14 +1,14 @@
 ---
 apiVersion: v1
 data:
-  cluster.name: mlops-c9
+  cluster.name: EKS-75GV2E2T
   logs.region: us-west-2
   # The below configuration file is in JSON format.
   # Please ensure you keep it well-formed if you modify it.
   cluster-info.json: |
     {
       "cluster": {
-        "name": "mlops-c9"
+        "name": "EKS-75GV2E2T"
       },
       "logs": {
         "region": "us-west-2"

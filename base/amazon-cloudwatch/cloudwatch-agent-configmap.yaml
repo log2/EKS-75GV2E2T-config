@@ -8,7 +8,7 @@ data:
       "logs": {
         "metrics_collected": {
           "kubernetes": {
-            "cluster_name": "mlops-c9",
+            "cluster_name": "EKS-75GV2E2T",
             "metrics_collection_interval": 60
           }
         },
